@@ -1,1 +1,1 @@
-# hcf_gcd
+# hcf_gcd programs in c
